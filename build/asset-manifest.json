@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4293dc4d.chunk.css",
+    "main.js": "/static/js/main.769c460d.chunk.js",
+    "main.js.map": "/static/js/main.769c460d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cc4980c9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cc4980c9.js.map",
+    "static/js/2.b1ba0e1c.chunk.js": "/static/js/2.b1ba0e1c.chunk.js",
+    "static/js/2.b1ba0e1c.chunk.js.map": "/static/js/2.b1ba0e1c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2216481c42455407194e7332c568de45.js": "/precache-manifest.2216481c42455407194e7332c568de45.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4293dc4d.chunk.css.map": "/static/css/main.4293dc4d.chunk.css.map",
+    "static/js/2.b1ba0e1c.chunk.js.LICENSE.txt": "/static/js/2.b1ba0e1c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/MonumentExtended-Bold.972c58d2.woff",
+    "static/media/b1.jpg": "/static/media/b1.f28da247.jpg",
+    "static/media/behance.svg": "/static/media/behance.195e884e.svg",
+    "static/media/c1.png": "/static/media/c1.fe8d1555.png",
+    "static/media/github.svg": "/static/media/github.8eb93f73.svg",
+    "static/media/instagram.svg": "/static/media/instagram.d715a593.svg",
+    "static/media/load.gif": "/static/media/load.e3c8e551.gif",
+    "static/media/twitter.svg": "/static/media/twitter.efdf9401.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc4980c9.js",
+    "static/js/2.b1ba0e1c.chunk.js",
+    "static/css/main.4293dc4d.chunk.css",
+    "static/js/main.769c460d.chunk.js"
+  ]
+}
